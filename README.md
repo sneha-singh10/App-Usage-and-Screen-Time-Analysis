@@ -7,6 +7,7 @@ This project explores how people interact with mobile applications and how that 
 ## 📌 Project Motivation
 
 Is our screen time productive or just passive consumption?
+
 In today’s digital age, we spend hours on mobile apps — often without realizing how much of it is productive. This project was initiated to explore the **invisible cost of screen time**, using real user behavior data to highlight trends in productivity, distraction, and app habits.
 
 
