@@ -2,13 +2,13 @@
 
 This project explores how people interact with mobile applications and how that affects productivity. By analyzing screen time data, it reveals the balance (or imbalance) between entertainment and productive usage, helping raise awareness about digital behavior and its impact.
 
----
+
 
 ## 📌 Project Motivation
 
 In today’s digital age, we spend hours on mobile apps — often without realizing how much of it is productive. This project was initiated to explore the **invisible cost of screen time**, using real user behavior data to highlight trends in productivity, distraction, and app habits.
 
----
+
 
 ## 🛠️ Tools & Technologies
 
@@ -16,7 +16,7 @@ In today’s digital age, we spend hours on mobile apps — often without realiz
 - **Power BI:** Interactive dashboard creation & DAX measures   
 - **Canva / PowerPoint:** Presentation for non-technical stakeholders  
 
----
+
 
 ## 📂 Dataset
 
@@ -24,7 +24,7 @@ In today’s digital age, we spend hours on mobile apps — often without realiz
 - **Size:** ~3,000+ records  
 - **Fields:** `user_id`, `app_name`, `category`, `screen_time_min`, `launches`, `interactions`, `is_productive`
 
----
+
 
 ## 📊 Dashboard Features
 
