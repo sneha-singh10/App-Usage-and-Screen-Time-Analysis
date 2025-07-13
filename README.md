@@ -16,7 +16,7 @@ In today’s digital age, we spend hours on mobile apps — often without realiz
 
 - **SQL (MS SQL Server):** Data cleaning, filtering, summarization  
 - **Power BI:** Interactive dashboard creation & DAX measures   
-- **Canva / PowerPoint:** Presentation for non-technical stakeholders  
+- **PowerPoint:** Presentation for non-technical stakeholders  
 
 
 
