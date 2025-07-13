@@ -14,7 +14,7 @@ In today’s digital age, we spend hours on mobile apps — often without realiz
 
 ## 🛠️ Tools & Technologies
 
-- **SQL (MS SQL Server):** Data cleaning, filtering, summarization  
+- **SQL (MS SQL Server):** Data filtering, summarization, generating basic insights  
 - **Power BI:** Interactive dashboard creation & DAX measures   
 - **PowerPoint:** Presentation for non-technical stakeholders  
 
